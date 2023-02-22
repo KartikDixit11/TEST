@@ -1,3 +1,5 @@
 hello world!
 my name is kartik dixit
 age=45
+weight=90
+
